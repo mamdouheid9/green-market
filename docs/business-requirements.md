@@ -1,5 +1,5 @@
 # Green Market – Business Requirements
-Overview
+Overview  
 Green Market is a full-stack agricultural e-commerce platform that connects verified sellers (farmers and agricultural suppliers) with buyers. The platform allows sellers to list agricultural products such as fertilizers, seeds, pesticides, and farming tools, while buyers can browse, search, and purchase these products.
 
 The platform has three types of users:
